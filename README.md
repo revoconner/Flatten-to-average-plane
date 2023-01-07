@@ -1,5 +1,7 @@
 # Flatten faces to average plane
 Flatten selected faces to the best fit plane in Maya
+![image](https://user-images.githubusercontent.com/88772846/211122741-a2dcbdc9-7e15-4dbe-acdb-9cb8f6873c43.png)
+![image](https://user-images.githubusercontent.com/88772846/211122764-12fa2b55-f50e-4419-b16e-1ee4c36abb42.png)
 
 # Why?
 Well you can always use the scale tool to flatten the faces and works great. This was a fun maths exercise for me.
